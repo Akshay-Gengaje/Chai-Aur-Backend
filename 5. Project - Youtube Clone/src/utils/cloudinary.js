@@ -12,19 +12,13 @@ const uploadOnCloudinary = async (localFilePath) => {
     if (!localFilePath) return null;
     // upload the local file to the cloudinary
     const response = await cloudinary.uploader.upload(localFilePath, {
-      resource_type:'auto',
-    })
+      resource_type: "auto",
+    });
     // File has been uploaded successfully
-    console.log('File uploaded successfully', response.url);
+    console.log("File uploaded successfully", response.url);
     return response;
   } catch (error) {
-    fs.unlinkSync(localFilePath) // Delete the local file
+    fs.unlinkSync(localFilePath); // Delete the local file
     return null;
   }
 };
-
-// Upload an image
-const uploadResult = await 
-  .catch((error) => {
-    console.log(error);
-  });

@@ -1,0 +1,101 @@
+[33mcommit db4172ab2317242e273a19df00ace76c82cda406[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Wed Jun 12 19:20:32 2024 +0530
+
+    User Registeration controller and routes added
+
+[33mcommit a041e99f1740493acb47d1cda58877b2e7aec3f6[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Wed Jun 12 09:10:45 2024 +0530
+
+    File upload script added with cloudinary
+
+[33mcommit 7315bbc601fad9b0305551d687149fa628b5abf6[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Tue Jun 11 09:21:29 2024 +0530
+
+    JWT Access token and refresh token methods created
+
+[33mcommit c089869715f934845c25eea0e6b6c126a89f20c2[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Mon Jun 10 08:01:13 2024 +0530
+
+    Video Schema Created and bcrypt and jwt library installed
+
+[33mcommit 807d8bc60c66a631072d912edd4e5140f4bd232b[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Sun Jun 9 19:21:51 2024 +0530
+
+    User Schema Created
+
+[33mcommit 5389e108b726a503daf01934a247834a6d2d949c[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Fri Jun 7 08:01:11 2024 +0530
+
+    Response handler util created
+
+[33mcommit 52afd8b0478133ed74bc05a7a8d10ec04ddfbff7[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Thu Jun 6 19:45:21 2024 +0530
+
+    Async handler util created
+
+[33mcommit 3e657cec7962769619e321584e0a6ee859b80a04[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Wed Jun 5 08:10:11 2024 +0530
+
+    Initial setup done
+
+[33mcommit 3d0639c59fb1bd37d14e108258ad51838a5f7b65[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Tue Jun 4 09:15:54 2024 +0530
+
+    Mongodb connection created
+
+[33mcommit 8e6d5501d5690a68028af6fd710e14470da773fa[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Mon Jun 3 19:10:20 2024 +0530
+
+    Project Initial Setup Created
+
+[33mcommit 1856f629dac1154ed65899d486ee65db92d6b6dd[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Sun Jun 2 08:15:32 2024 +0530
+
+    Hospital Managment Data Model Created
+
+[33mcommit 33e4f65def23f0464c05e5ec295fd37d75dbed42[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Sat Jun 1 10:20:11 2024 +0530
+
+    Ecommerce Data Model Created
+
+[33mcommit 3bc0b212dda91cb32659e7f75101d46eacbc6028[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Fri May 31 12:57:06 2024 +0530
+
+    Data Model created for Todo app
+
+[33mcommit d787f534370dcf3e9ba78f33531294df6532a32b[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Thu May 30 15:19:23 2024 +0530
+
+    backend and frontend implemented
+
+[33mcommit fd05d7305533feac73a5193a9dfc99d4ee4aeb6c[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Thu May 30 13:51:12 2024 +0530
+
+    Node project initialized
+
+[33mcommit 2f213148f52719aca207cf72b83f015b8f59e8db[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Thu May 30 12:16:18 2024 +0530
+
+    Folder Structured Explained
+
+[33mcommit 346ca938205d0aebf8175fe0b49e236c98821bd8[m
+Author: Akshay-Gengaje <Akshaysgengaje@gmail.com>
+Date:   Thu May 30 12:03:34 2024 +0530
+
+    first commit
